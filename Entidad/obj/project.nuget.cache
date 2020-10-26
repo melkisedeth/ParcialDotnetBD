@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hgz8J87NYSB+NJdBY0JKkiKngubPohzbuBzSb5LjJ03C1JlkP5qUf+34VVwQ7C2HQ4W8adQVENt1+MymLkIFIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jhean\\OneDrive\\Documentos\\2020-2\\BAJO WEB\\SEGUNDO CORTE\\Parcialdotnet2\\ParcialDotnetBD\\Entidad\\Entidad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhean\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jhean\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
